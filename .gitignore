@@ -1,3 +1,12 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+.ipynb_checkpoints
+._.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/._.ipynb_checkpoints
+
 # History files
 .Rhistory
 .Rapp.history
@@ -46,11 +55,3 @@ Notebook/.ipynb_checkpoints/
 
 # Lecture
 Lecture/qmd/
-
-
-
-.DS_Store
-Data/.DS_Store
-.DS_Store
-.DS_Store
-*.ipynb
